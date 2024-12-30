@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "95c542c630c8be99",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b7f49d4e97846e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b85d44085ae794bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архетипы/Хаотичный заклинатель.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Хаотичный заклинатель"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53202890c93015fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b04dd84d4d981f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc2563702b58b197",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "48415772d985ef6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ded2d3ea70f193b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3dac2d34b07dfe21",
+    "type": "split",
+    "children": [
+      {
+        "id": "a603378adef475e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ab0562a2376edd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Архетипы/Хаотичный заклинатель.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Хаотичный заклинатель"
+            }
+          },
+          {
+            "id": "a2eb72eade8c1cf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Архетипы/Гражданский заклинатель.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Гражданский заклинатель"
+            }
+          },
+          {
+            "id": "cfe7388a8aa0a8ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "15e9be73a533a409",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Архетипы/Гражданский заклинатель.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Гражданский заклинатель"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b85d44085ae794bf",
+  "lastOpenFiles": [
+    "Черты/Хаотичный заклинатель/Feat 12 Хаотичный источник [one-action.md",
+    "Архетипы/Хаотичный заклинатель.md",
+    "Архетипы/Ритуальный заклинатель.md",
+    "Черты/Хаотичный заклинатель/Feat 15 Нарастающий хаос.md",
+    "Черты/Хаотичный заклинатель/Feat 14 Хаотичный осциллятор.md",
+    "Черты/Хаотичный заклинатель/Feat 12 Хаотичный источник.md",
+    "Feat 4 Хаотичное усиление [one-action.md",
+    "Архетипы/Гражданский заклинатель.md",
+    "Черты/Хаотичный заклинатель/Feat 12 Спокойствие в хаосе.md",
+    "Черты/Хаотичный заклинатель/Feat 10 Продвинутый хаотичный заклинатель.md",
+    "Черты/Хаотичный заклинатель/Feat 8 Разрыв мыслей.md",
+    "Черты/Хаотичный заклинатель/Feat 6 Хаотичное расширение.md",
+    "Черты/Хаотичный заклинатель/Feat 6 Хаотичная досягаемость.md",
+    "Черты/Хаотичный заклинатель/Feat 6 Фокусное спокойствие.md",
+    "Черты/Хаотичный заклинатель/Feat 4 Хаотичные знания.md",
+    "Черты/Хаотичный заклинатель/Feat 4 Хаотичное усиление.md",
+    "Черты/Хаотичный заклинатель/Feat 2 Посвящение хаотичного заклинателя.md",
+    "Черты/Хаотичный заклинатель",
+    "Заклинания/Внедрение хаотизма.md",
+    "Заклинания/Гражданская магия.md",
+    "Наследия/Сто однолетний эльф.md",
+    "Черты/Гражданский заклинатель/Feat 14 Совершенная гражданская магия.md",
+    "Черты/Гражданский заклинатель/Feat 10 Магия личной мобильности.md",
+    "Черты/Гражданский заклинатель/Feat 8 Продвинутая гражданская магия.md",
+    "Черты/Гражданский заклинатель/Feat 4 Магия чувств мира.md",
+    "Черты/Гражданский заклинатель/Feat 2 Посвящение гражданского заклинателя.md",
+    "Черты/Гражданский заклинатель/Feat 4 Магия орудий труда.md",
+    "Черты/Ритуальный заклинатель",
+    "Черты/Гражданский заклинатель",
+    "Черты",
+    "Предметы",
+    "Наследия",
+    "Заклинания",
+    "Архетипы"
+  ]
+}
