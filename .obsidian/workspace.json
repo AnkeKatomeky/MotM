@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68153ea579c49fca",
+        "id": "04713db53558688c",
         "type": "tabs",
         "children": [
           {
-            "id": "9a403e311c09727e",
+            "id": "6046505fdaa25aac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Черты классов.md",
-                "mode": "source",
-                "source": false
+                "file": "AP - Pathfinder 2e Addons/Наследия/Сто однолетний эльф.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Черты классов"
+              "title": "Сто однолетний эльф"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Черты классов.md",
+                "file": "AP - Pathfinder 2e Addons/Наследия/Сто однолетний эльф.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Черты классов"
+              "title": "Backlinks for Сто однолетний эльф"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Архетипы/Гражданский заклинатель.md",
+                "file": "AP - Pathfinder 2e Addons/Наследия/Сто однолетний эльф.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Гражданский заклинатель"
+              "title": "Outgoing links from Сто однолетний эльф"
             }
           },
           {
@@ -130,7 +130,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Архетипы/Гражданский заклинатель.md"
+                "file": "AP - Pathfinder 2e Addons/Наследия/Сто однолетний эльф.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Гражданский заклинатель"
+              "title": "Outline of Сто однолетний эльф"
             }
           }
         ]
@@ -154,51 +154,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9a403e311c09727e",
+  "active": "6046505fdaa25aac",
   "lastOpenFiles": [
-    "Черты.md",
-    "Черты классов.md",
-    "Черты Общие.md",
-    "Черты рас.md",
-    "Черты умения.md",
-    "Черты посвящения.md",
-    "System - Светоискатель/Создание персонажа.md",
+    "AP - Pathfinder 2e Addons/Архетипы/Хаотичный заклинатель.md",
+    "AP - Pathfinder 2e Addons/Наследия/Сто однолетний эльф.md",
+    "AP - Pathfinder 2e Addons/Архетипы/Ритуальный заклинатель.md",
+    "AP - Pathfinder 2e Addons/Архетипы/Гражданский заклинатель.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Фокус заклинания/Внедрение хаотизма.md",
+    "System - Lightfinder Bace/Элементы правил/Состояние.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Фокус заклинания/Магия связи.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Фокус заклинания/Магия чувств.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Фокус заклинания/Ритуальное заклинание.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Фокус заклинания/Ритуальный свиток.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Фокус заклинания/Гражданская магия.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Фокус заклинания/Магия мобильности.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Чары",
+    "AP - Mistery of the Magic/Структура.md",
+    "AP - Pathfinder 2e Addons/Заклинания/Фокус заклинания",
+    "AP - Mistery of the Magic",
+    "System - Lightfinder Compendium/Магия/Чары",
+    "System - Lightfinder Compendium/Магия",
+    "Pathfinder 2e addons/Черты/Гражданский заклинатель/Feat 4 Магия орудий труда.md",
     "Merger Pattern.md",
-    "System - Светоискатель/Персонаж/Класс.md",
-    "System - Светоискатель/Элементы правил/Приключение.md",
-    "System - Светоискатель/Элементы правил/Столкновение.md",
-    "System - Светоискатель/Элементы правил/Свободное время.md",
-    "System - Светоискатель/Персонаж/Умение.md",
-    "System - Светоискатель/Элементы правил/Состояние.md",
-    "System - Светоискатель/Элементы правил/Действия.md",
-    "System - Светоискатель/Персонаж/Аспект.md",
-    "System - Светоискатель/Снаряжение/Снаряжение.md",
-    "System - Светоискатель/Снаряжение/Инструменты.md",
-    "System - Светоискатель/Снаряжение/Аксессуары.md",
-    "System - Светоискатель/Снаряжение/Услуга.md",
-    "System - Светоискатель/Снаряжение/Сокровища.md",
-    "System - Светоискатель/Снаряжение/Расходуемые предметы.md",
-    "Экипировка.md",
-    "Наборы предметов для классов.md",
-    "System - Светоискатель/Снаряжение/Деньги.md",
-    "System - Светоискатель/Снаряжение/Броня.md",
-    "System - Светоискатель/Опциональные правила",
-    "Pathfinder 2e addons",
-    "System - Светоискатель/Характеристики персонажа/Способности",
-    "System - Светоискатель/Характеристики персонажа/Защиты",
-    "System - Светоискатель/Характеристики персонажа/Атрибуты",
-    "System - Светоискатель/Характеристики персонажа/Аспекты",
-    "System - Светоискатель/Происхождения",
-    "System - Светоискатель/Архетипы",
-    "System - Светоискатель/Снаряжение",
-    "System - Светоискатель/Элементы правил"
+    "System - Lightfinder Compendium/Расы/Дворф.md",
+    "System - Lightfinder Bace/Персонаж/Раса.md",
+    "System - Lightfinder Compendium/Расы/Полурослик.md",
+    "System - Lightfinder Compendium/Расы/Эльф.md",
+    "System - Lightfinder Compendium/Расы/Человек.md",
+    "System - Lightfinder Bace/Персонаж/Персонаж.md",
+    "System - Lightfinder Bace/Персонаж/Класс.md",
+    "System - Lightfinder Bace/Персонаж/Защита.md",
+    "System - Lightfinder Bace/Персонаж/Атрибут.md",
+    "System - Lightfinder Bace/Персонаж/Аспект.md",
+    "System - Lightfinder Compendium/Черты/Классы/Заклинатель.md",
+    "System - Lightfinder Compendium/Черты/Классы",
+    "System - Lightfinder Compendium/Предметы",
+    "System - Lightfinder Compendium/Расы",
+    "System - Lightfinder Compendium/Черты",
+    "System - Lightfinder Compendium"
   ]
 }
